@@ -4,7 +4,7 @@ var age = 25;
 var city = "Baguio";
 var year, ageCheck, remainder;
 
-year = 2024 - age;
+year = 2024 - age; //getFullYear()
 
 if (age >= 18){
     ageCheck = true;
